@@ -1,7 +1,7 @@
 #### Building
 
 - yet another [online JavaScript REPL](https://github.com/cascandaliato/javascript-repl) (React, CodeMirror, Babel)
-- a TypeScript library for [cellular automata](https://github.com/cascandaliato/cellular-automata)
+- a TypeScript library to compute [cellular automata](https://github.com/cascandaliato/cellular-automata)
 
 #### Learning
 
