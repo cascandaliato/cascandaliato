@@ -1,6 +1,6 @@
 #### Building
 
-- [poolet](https://github.com/cascandaliato/poolet) 🐔, a generic pooling library for Node.js
+- [poolet](https://github.com/cascandaliato/poolet) 🐔 - a generic pooling library for Node.js
 - a TypeScript library to compute [cellular automata](https://github.com/cascandaliato/cellular-automata)
 - yet another [online JavaScript REPL](https://github.com/cascandaliato/javascript-repl) (React, CodeMirror, Babel)
 
