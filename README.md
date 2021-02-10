@@ -6,7 +6,7 @@
 
 #### Learning
 
-- [Functional and reactive programming in Java](https://www.udemy.com/course/functional-programming-and-reactive-programming-in-java/)
+- [Python](https://www.udemy.com/course/python-the-complete-python-developer-course/)
 - [MongoDB](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
 
 [![problems solved on exercism.io](https://img.shields.io/badge/dynamic/json?color=009caa&label=exercism.io&logo=exercism&logoColor=white&query=total&url=https%3A%2F%2Fexercism-stats-scraper.netlify.app%2Fapi%2Fsolutions%3Fuser%3Dcascandaliato&style=flat-square&labelColor=%23111827&cacheSeconds=604800)](https://exercism.io/profiles/cascandaliato) [![problems solved on leetcode.com](https://img.shields.io/badge/dynamic/json?style=flat-square&color=%23ffa116&label=leetcode.com&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow&labelColor=%23111827&cacheSeconds=604800)](https://leetcode.com/cascandaliato/)
