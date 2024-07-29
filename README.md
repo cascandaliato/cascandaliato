@@ -1,7 +1,3 @@
-**Reading:** [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/), [Head First Networking](https://www.oreilly.com/library/view/head-first-networking/9780596804398/)
-
-**Learning:**  [Terraform](https://www.terraform.io/)
-
 [![problems solved on exercism.org](https://img.shields.io/badge/dynamic/json?style=flat-square&color=604fcd&label=exercism.org&query=meta.total_count&suffix=%20published%20solutions&url=https%3A%2F%2Fexercism.org%2Fapi%2Fv2%2Fprofiles%2Fcascandaliato%2Fsolutions&labelColor=%23111827&logo=exercism&logoColor=white&cacheSeconds=604800)](https://exercism.org/profiles/cascandaliato)
 
 [![problems solved on leetcode.com](https://img.shields.io/badge/dynamic/json?style=flat-square&color=%23ffa116&label=leetcode.com&suffix=%20problems%20solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow&labelColor=%23111827&cacheSeconds=604800)](https://leetcode.com/cascandaliato)
